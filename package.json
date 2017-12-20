@@ -1,0 +1,21 @@
+{
+  "name": "jsontry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "echo gogogo",
+    "homework": "helloworld"
+  },
+  "author": "D0342021陳昱亨",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "nodemon": "^1.13.3"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
