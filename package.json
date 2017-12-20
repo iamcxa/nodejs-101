@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "go": "echo gogogo",
-    "homework": "helloworld"
+    "homework": "echo helloworld"
   },
   "author": "D0342021陳昱亨",
   "license": "ISC",
