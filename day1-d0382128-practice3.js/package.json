@@ -1,0 +1,20 @@
+{
+  "name": "MingHua",
+  "version": "1.0.0",
+  "description": "inital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "homework": "echo helloword"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "git+https://github.com/expressjs/express.git"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "nodemon": "^1.13.3"
+  }
+}
