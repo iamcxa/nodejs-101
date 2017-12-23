@@ -1,0 +1,16 @@
+{
+  "name": "d0512808",
+  "version": "1.0.0",
+  "description": "somthing",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "nodemon": "^1.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "homework": "echo helloworld"
+  },
+  "author": "",
+  "license": "ISC"
+}
