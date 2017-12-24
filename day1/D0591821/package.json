@@ -1,0 +1,15 @@
+{
+  "name": "d0591821",
+  "version": "1.0.0",
+  "description": "nodejs practice",
+  "main": "index.js",
+  "scripts": {
+    "homework": "echo helloworld"
+  },
+  "author": "d0591821",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "mocha": "^4.0.1"
+  }
+}
