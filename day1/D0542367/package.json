@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"homework": "echo 'helloworld' && exit 1"
+    "homework": "echo 'helloworld' && exit 1"
   },
   "author": "david",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
     "mocha": "^4.0.1"
   }
 }
