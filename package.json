@@ -1,0 +1,19 @@
+{
+  "name": "d0542974",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"hello": "echo helloworld"
+  },
+  "keywords": [],
+  "author": "翁竹延",
+  "license": "ISC",
+  "description": "homework",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
