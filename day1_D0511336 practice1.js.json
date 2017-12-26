@@ -1,0 +1,19 @@
+{
+  "name": "d0511336",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "scripts": {
+    "homework": "echo \"helloworld\"",
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "d0511336 <d0511336@mail.fcu.edu.tw>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "nodemon": "^1.14.3"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
