@@ -1,0 +1,18 @@
+{
+  "name": "d0486228",
+  "version": "1.0.0",
+  "description": "nodejs day1 practice3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "homework": "echo helloworld"
+  },
+  "author": "d0486228",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
