@@ -1,21 +1,22 @@
 {
   "name": "panda",
   "version": "1.0.0",
-  "description": "first_init_test",
+  "description": "first_npm_init",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.17.1",
     "eslint": "^4.13.1",
     "nodemon": "^1.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "homework": "echo \"helloworld\""
+    "test": "mocha"
   },
   "keywords": [
     "first",
-    "init",
-    "test"
+    "init"
   ],
   "author": "pandaOAO@gmail.com",
   "license": "ISC"
