@@ -9,4 +9,4 @@ for (i=1; i<=9; i++) {
 	}
 	string += '\n';
 }
-console.log(string)
+console.log(string);
