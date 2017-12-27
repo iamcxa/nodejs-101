@@ -13,6 +13,7 @@
   },
   "scripts": {
     "test": "mocha"
+    "homework": "echo \"helloworld\""
   },
   "keywords": [
     "first",
