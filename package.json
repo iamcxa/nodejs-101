@@ -1,0 +1,22 @@
+{
+  "name": "panda",
+  "version": "1.0.0",
+  "description": "first_init_test",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.13.1",
+    "nodemon": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "homework": "echo \"helloworld\""
+  },
+  "keywords": [
+    "first",
+    "init",
+    "test"
+  ],
+  "author": "pandaOAO@gmail.com",
+  "license": "ISC"
+}
