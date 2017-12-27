@@ -1,0 +1,24 @@
+{
+  "name": "panda",
+  "version": "1.0.0",
+  "description": "first_npm_init",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "eslint": "^4.13.1",
+    "nodemon": "^1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "homework": "echo \"helloworld\""
+  },
+  "keywords": [
+    "first",
+    "init"
+  ],
+  "author": "pandaOAO@gmail.com",
+  "license": "ISC"
+}
