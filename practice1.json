@@ -15,5 +15,11 @@
     "xinhui"
   ],
   "author": "d0527783 <tanxinhui824@hotmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
 }
