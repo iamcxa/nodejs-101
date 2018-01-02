@@ -1,0 +1,18 @@
+{
+  "name": "d0409891",
+  "version": "1.0.0",
+  "description": "day1 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "homework": "echo 'helloworld'"
+  },
+  "author": "d0409891",
+  "license": "ISC",
+  "devDependencies": {
+	"mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
