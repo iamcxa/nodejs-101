@@ -1,0 +1,19 @@
+{
+  "name": "D0542397",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo '執行 start' && exit 1",
+    "go": "echo helloworld"
+  },
+  "author": "時昱安",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+  }
+}
